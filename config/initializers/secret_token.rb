@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsPrelaunchSignup::Application.config.secret_token = 'a358b8da1f083bd38bbba400f7e566832f9ce54e129f869a14d9f8a58d12e3e862a25463ac3231df42ad675609498c73a9497be0745c4b1792463c488b71e34e'
+RailsPrelaunchSignup::Application.config.secret_token = '3427e80d08bb8244f1bdac97a8a9c8daf4ed8f2a33781a3e7e8b8b64fe06f4a676c917cfbb66d90f7df6264660a34f30012609873c64e05041af6926e4d833a6'
